@@ -1,0 +1,3 @@
+This program is a basic Dropbox type of syncing program between 2 directories 
+It is written in python and uses the basic TCP and UDP protocols of python for communication and transfer of data from Server to Client.
+It also has some other functionalities that are mentioned in the PDF.
